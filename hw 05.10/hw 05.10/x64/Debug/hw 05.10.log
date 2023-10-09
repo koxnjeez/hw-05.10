@@ -1,0 +1,9 @@
+﻿  hw 05.10.cpp
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(20,27): warning C4042: n1: имеет недопустимый класс хранения
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(20,42): warning C4042: n2: имеет недопустимый класс хранения
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(44,24): warning C4042: num: имеет недопустимый класс хранения
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(67,21): warning C4042: num: имеет недопустимый класс хранения
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(72,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(85,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Code\hw 05.10\hw 05.10\hw 05.10.cpp(100,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  hw 05.10.vcxproj -> C:\Users\User\Desktop\Code\hw 05.10\x64\Debug\hw 05.10.exe
